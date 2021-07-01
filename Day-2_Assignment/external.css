@@ -1,0 +1,10 @@
+.two{
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	font-size: 25px;
+	font-weight: bold;
+	background-color: lightgoldenrodyellow;
+	color: darkred;
+	border: 2px solid black;
+}
